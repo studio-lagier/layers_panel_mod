@@ -1,0 +1,8 @@
+{
+	"name": "Layers Panel Mod",
+	"unique_id": "TomLagier.LayersPanelMod",
+	"version": "1.0.0",
+	"author": "tomlagier",
+	"description": "Adds a layers panel to the select tool for more granular selection ability.",
+	"dd_version": "1.1.0.0"
+}

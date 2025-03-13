@@ -1,0 +1,4 @@
+1. Better layer names
+2. Select tool click highlighting
+3. Fix overlap bug with select tool (probably requires Mega help)
+4. Drag and drop layer change & ordering
